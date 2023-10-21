@@ -1,0 +1,125 @@
+body{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+overflow-y: hidden;}
+
+header{
+    width: 100vw;
+    height: 10vh;
+    background-image: linear-gradient(to right, #4456B3 , #261360);    display: grid;
+    top: 0;
+color: white;
+}
+    
+
+#wd{ text-align: center;
+    margin-top: 0;
+
+}
+#sac{ text-align: center;
+}
+.previousSearchBoxes{
+    justify-content: center;
+    width: 30vw;
+    background-color: darkgray;
+    margin: 20px;
+    border-radius: 8px;
+    text-align: center;
+    float: top;
+    margin-top: -10vh;
+    height: 50vh;
+    border: solid;
+    border-width: solid;
+
+}
+.righttopcontainer{
+    height: 30vh;
+    margin-left: 15px;
+    width: 65vw;
+    float: right;
+    border: solid;
+    border-width: solid;
+    line-height: 10px;
+    margin-right: 10px;
+
+    
+}
+.leftcontainer{
+    height: 90vh;
+    width: 30vw;
+    display: grid;
+    justify-content: center;
+    float: top;
+    
+
+}
+#form{     position: absolute;
+    top: 20%;
+}
+#Search{width: 30vw;
+
+}
+#btn{
+    position: absolute;
+    width: 30vw;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: #4456B3;
+    color: white;
+}
+.maincontainer{
+   display: flex;
+    height: 55vh;
+    width: 68vw;
+    float: right;
+    float: top;
+    align-items: center;
+    justify-content: space-evenly;
+
+       
+}
+img{
+        height: 30px;
+        width: 30px;
+        justify-content: center;
+    }
+.card1{
+    height: 40vh;
+    width: 10vw;
+    background-color: #323D4F;
+    color: white;
+    padding-left: 10px;
+}
+.card2{
+    height: 40vh;
+    width: 10vw;
+    background-color: #323D4F;
+    color: white;
+    padding-left: 10px;
+
+
+}
+.card3{   height: 40vh;
+    width: 10vw;
+    background-color: #323D4F;
+    color: white;
+    padding-left: 10px;
+
+
+}
+.card4{    height: 40vh;
+    width: 10vw;
+    background-color: #323D4F;
+    color: white;
+    padding-left: 10px;
+
+}
+.card5{    height: 40vh;
+    width: 10vw;
+    background-color: #323D4F;
+    color: white;
+    padding-left: 10px;
+
+}
